@@ -1,4 +1,4 @@
-# Зниклий кіт — рівень 1
+# Lost Cat — level 1
 
 A playable demo level: a child assembles an agent-creature, watches it fail to find a lost kitten
 because it has no memory, installs the memory block, and watches it succeed.
